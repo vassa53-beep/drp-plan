@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔐 Сообщить об уязвимости или опасной рекомендации
+    url: https://github.com/nullday/drp-plan/security/policy
+    about: Не создавайте публичный Issue для проблем безопасности — см. SECURITY.md и пишите на sos@nullday.ru
+  - name: 🔥 У вас реальный инцидент прямо сейчас
+    url: https://github.com/nullday/workbook
+    about: DRP уже не поможет — используйте Ransomware Recovery Kit и пишите sos@nullday.ru
